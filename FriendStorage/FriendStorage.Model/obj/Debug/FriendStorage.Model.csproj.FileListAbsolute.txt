@@ -1,0 +1,6 @@
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csproj.AssemblyReference.cache
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csproj.CoreCompileInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb

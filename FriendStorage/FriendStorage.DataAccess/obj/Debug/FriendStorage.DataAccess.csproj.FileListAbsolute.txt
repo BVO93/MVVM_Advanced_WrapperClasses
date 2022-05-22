@@ -1,0 +1,11 @@
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.DataAccess.pdb
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.Model.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.Model.pdb
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csproj.AssemblyReference.cache
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csproj.CoreCompileInputs.cache
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csproj.CopyComplete
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.dll
+C:\1_Programming\1_C#\1_ExampleResources\2_MVVM_AdvancedModelTreatment\wpf-mvvm-advanced-model-treatment\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.pdb
